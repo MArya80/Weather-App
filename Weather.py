@@ -86,7 +86,7 @@ class Weather:
                     self.pic_url = (i[1].img['src'])
                 break
 
-api_key = '9f2781732e6051df73004d34c6f79b1b'
+api_key = 'Your API Key'
     
 
 from PyQt5 import QtCore, QtGui, QtWidgets
